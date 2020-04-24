@@ -1,1 +1,1 @@
-This is Kylee's first got project
+This is Kylee's first git project
